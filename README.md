@@ -19,9 +19,19 @@ Each algorithm is written with readability and simplicity in mind — perfect fo
 - Selection Sort   
 - Merge Sort  
 - Quick Sort  
+- Heap Sort
+- Shell Sort
+- Insertion Sort
+- Counting Sort
 
 ### 🔎 Searching Algorithms
 - Linear Search  
-- Binary Search  
+- Binary Search
+- Depth First Search
+- Breadth First Search
+- Exponential Search
+- Ternary Search
+- Binary Search Tree
+
 
 ---
